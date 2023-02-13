@@ -1,6 +1,6 @@
               _ . - * ` READ ME ZONE ` * - . _
                
-- - - - - - - - - - I M P O R T A N T - - - - - - - - -
+- - - - - - - - - - I M P O R T A N T - - - - - - - - - - 
 1. Press 'x' To Stop
 2.your can run this from "Visual Studio Code"
 3.your can add more click by add new line 
