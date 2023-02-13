@@ -1,11 +1,11 @@
               _ . - * ` READ ME ZONE ` * - . _
                
-- - - - - - - - - - I M P O R T A N T
+# - - - - - - - - - - I M P O R T A N T
 1. Press 'x' To Stop
 2.your can run this from "Visual Studio Code"
 3.your can add more click by add new line 
 
-- - - - - - E X A M P L E
+# - - - - - - E X A M P L E
 
 import keyboard
 import pyautogui
@@ -21,7 +21,7 @@ while keyboard.is_pressed('x')==False:
     pyautogui.click(x=196, y=138)
     pyautogui.click(x=196, y=138)
     
-- - - - - - E X A M P L E - - - - - -
+# - - - - - - E X A M P L E - - - - - -
 
 # NEED TO INSTALL PYTHON ------------------------------> https://www.python.org/downloads/
 
