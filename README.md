@@ -1,4 +1,4 @@
-                                  _ . - * ` READ ME ZONE ` * - . _
+                                                    _ . - * ` READ ME ZONE ` * - . _
                
 # - - - - - - - - - - I M P O R T A N T - - - - - - - - - - 
 1. Press 'x' To Stop
@@ -39,5 +39,5 @@
 # Onii-chan HENTAI - 3 - b # Chu~ Chu~
 ![](https://i.pinimg.com/originals/85/9e/45/859e45f9ce5db1f307f874c14595d5f6.gif)
                   
-                                  _ . - * ` END READ ME ZONE ` * - . _
+                                                    _ . - * ` END READ ME ZONE ` * - . _
     
