@@ -34,7 +34,7 @@ while keyboard.is_pressed('x')==False:
 
 # find your x , y by your self cuz im lazy to explan about x , y lol  Don't Angry at me Onii-chan i'm just a lazy cat
 
-- - - - - - - - - - I M P O R T A N T
+
 # Onii-chan HENTAI - 3 - b # Chu~ Chu~
 ![](https://i.pinimg.com/originals/85/9e/45/859e45f9ce5db1f307f874c14595d5f6.gif)
                   
