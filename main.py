@@ -1,3 +1,5 @@
+# NEED TO INSTALL " pillow " package > "pip install pillow"
+# NEED TO INSTALL python
 import keyboard
 import pyautogui
 while keyboard.is_pressed('x')==False:
