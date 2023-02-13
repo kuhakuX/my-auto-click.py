@@ -2,6 +2,27 @@
               _ . - * ` READ ME ZONE ` * - . _
                
 - - - - - - - - - - I M P O R T A N T - - - - - - - - -
+1. Press 'x' To Stop
+2.your can run this from "Visual Studio Code"
+3.your can add more click by add new line 
+
+- - - - - - E X A M P L E - - - - - -
+
+import keyboard
+import pyautogui
+while keyboard.is_pressed('x')==False:
+    pyautogui.click(x=34, y=38)
+    pyautogui.click(x=99, y=37)
+    pyautogui.click(x=196, y=38)
+    pyautogui.click(x=37, y=147)
+    pyautogui.click(x=196, y=138)
+    pyautogui.click(x=196, y=138)
+    pyautogui.click(x=196, y=138)
+    pyautogui.click(x=196, y=138)
+    pyautogui.click(x=196, y=138)
+    pyautogui.click(x=196, y=138)
+    
+- - - - - - E X A M P L E - - - - - -
 
 NEED TO INSTALL PYTHON ------------------------------> https://www.python.org/downloads/
 
@@ -15,7 +36,7 @@ NEED TO INSTALL " keyboard " package ---------------->  "pip install keyboard"
 find your x , y by your self cuz im lazy to explan about x , y lol  Don't Angry at me Onii-chan i'm just a lazy cat
 
 - - - - - - - - - - I M P O R T A N T - - - - - - - - -
-# Onii-chan HENTAI - 3 - b #
+# Onii-chan HENTAI - 3 - b # Chu~ Chu~
                   
              ` * - . _ END READ ME ZONE _ . - * `
 '''
