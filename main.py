@@ -1,5 +1,14 @@
-# NEED TO INSTALL " pillow " package > "pip install pillow"
-# NEED TO INSTALL python
+''' 
+READ ME ZONE
+- - - - - - - - - - I M P O R T A N T - - - - - - - - -
+NEED TO INSTALL python 
+NEED TO INSTALL " pillow " package --------------->  "pip install pillow"
+NEED TO INSTALL " pyautogui " package --------------->  "pip install pyautogui"
+NEED TO INSTALL " keyboard " package --------------->  "pip install keyboard"
+
+- - - - - - - - - - I M P O R T A N T - - - - - - - - -
+END READ ME ZONE
+'''
 import keyboard
 import pyautogui
 while keyboard.is_pressed('x')==False:
