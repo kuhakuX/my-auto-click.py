@@ -26,7 +26,7 @@ while keyboard.is_pressed('x')==False:
 NEED TO INSTALL PYTHON ------------------------------> https://www.python.org/downloads/
 
 # # # if you use  my code but not install PYTHON i will slap you ass lol just kidding # # #
-!(https://media.tenor.com/b_4ERajyrPEAAAAC/slap-butts-anime.gif)
+![](https://media.tenor.com/b_4ERajyrPEAAAAC/slap-butts-anime.gif)
 
 NEED TO INSTALL " pillow " package ------------------>  "pip install pillow"
 NEED TO INSTALL " pyautogui " package --------------->  "pip install pyautogui"
@@ -36,6 +36,6 @@ find your x , y by your self cuz im lazy to explan about x , y lol  Don't Angry 
 
 - - - - - - - - - - I M P O R T A N T - - - - - - - - -
 # Onii-chan HENTAI - 3 - b # Chu~ Chu~
-!(https://i.pinimg.com/originals/85/9e/45/859e45f9ce5db1f307f874c14595d5f6.gif)
+![](https://i.pinimg.com/originals/85/9e/45/859e45f9ce5db1f307f874c14595d5f6.gif)
                   
              ` * - . _ END READ ME ZONE _ . - * `
