@@ -7,6 +7,7 @@
 
 # - - - - - - E X A M P L E
 
+'''
 import keyboard
 import pyautogui
 while keyboard.is_pressed('x')==False:
@@ -20,6 +21,7 @@ while keyboard.is_pressed('x')==False:
     pyautogui.click(x=196, y=138)
     pyautogui.click(x=196, y=138)
     pyautogui.click(x=196, y=138)
+    '''
     
 # - - - - - - E X A M P L E - - - - - -
 
