@@ -8,9 +8,9 @@
 # - - - - - - E X A M P L E
 
 
-#import keyboard
-#import pyautogui
-#while keyboard.is_pressed('x')==False:
+# import keyboard
+# import pyautogui
+# while keyboard.is_pressed('x')==False:
 #    pyautogui.click(x=34, y=38)
 #    pyautogui.click(x=99, y=37)
 #    pyautogui.click(x=196, y=38)
