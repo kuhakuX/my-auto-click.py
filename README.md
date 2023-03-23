@@ -5,6 +5,10 @@
 2.your can run this from "Visual Studio Code"
 3.your can add more click by add new line 
 
+Extra
+For Arch install pip
+pacman -S python-pip
+
 # - - - - - - E X A M P L E - - - - - - 
 
 
