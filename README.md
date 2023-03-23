@@ -8,9 +8,9 @@
 Extra  
 For Arch install pip  
 pacman -S python-pip  
-pip install keyboard
-pip install pyautogui
-pip install ......
+pip install keyboard  
+pip install pyautogui  
+pip install ......  
 # - - - - - - E X A M P L E - - - - - - 
 
 
